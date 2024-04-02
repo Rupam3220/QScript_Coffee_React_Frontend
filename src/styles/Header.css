@@ -1,0 +1,32 @@
+/* Desktop */
+.nav-menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-menu li {
+    margin: 0px 20px;
+}
+
+.nav-menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* Mobile */
+.mob-nav-menu {
+    list-style: none;
+}
+
+.mob-nav-menu li {
+    margin-top: 20px;
+}
+
+.mob-nav-menu li a {
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: black;
+}
